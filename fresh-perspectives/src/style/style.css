@@ -1,0 +1,65 @@
+body{
+    background-color: azure;
+}
+div{
+    /* background-color: coral;
+    border-color: violet; */
+    border-width: 25px;
+}
+header{
+    /* background-color: blueviolet;
+    border-color: chocolate; */
+    border-width: 25px;
+    font-size: large;
+    font-weight: bolder;
+    text-align: center;
+    text-decoration: underline;
+}
+main{
+    /* background-color:wheat;
+    border-color: steelblue; */
+    border-width: 25px;
+    margin: 6%;
+}
+section{
+    /* background-color: burlywood;
+    border-color: orange; */
+    border-width: 25px;
+}
+article{
+    /* background-color: chartreuse;
+    border-color: snow; */
+    border-width: 25px;
+    padding: 10px;
+}
+figure{
+    /* background-color:yellow;
+    border-color: slategray; */
+    border-width: 25px;
+}
+p{
+    /* background-color: aqua;
+    border-color: salmon; */
+    border-width: 25px;
+    text-align: justify;
+}
+a{
+    text-decoration: none;
+    color:brown;
+    font-weight: bold;
+}
+
+#keyb{
+    background-color: lightgray;
+    
+
+}
+#cockroache{
+    background-color: lightcoral;
+
+}
+footer{
+    /* background-color: yellowgreen;
+    border-color: darkolivegreen; */
+    border-width: 25px;
+}
