@@ -58,6 +58,9 @@ a{
     background-color: lightcoral;
 
 }
+#ckCompare{
+    background: linear-gradient(45deg, lightgray, lightcoral);
+}
 footer{
     /* background-color: yellowgreen;
     border-color: darkolivegreen; */
